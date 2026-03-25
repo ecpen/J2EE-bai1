@@ -1,0 +1,32 @@
+Bao cao du an: Quan Ly Sach - Book Management System
+
+1. Mo ta du an:
+   Chuong trinh quan ly sach bang Java, su dung console de tuong tac.
+   Thuc hien cac chuc nang: them, xoa, sua, xuat, tim sach theo tieu chi.
+
+2. Chuc nang chinh:
+   - Them sach
+   - Xoa sach theo ID
+   - Sua thong tin sach
+   - Xuat danh sach tat ca sach
+   - Tim sach chua "Lap trinh"
+   - Lay toi da K sach gia <= P
+   - Tim sach theo tac gia
+
+3. Source code:
+   - Ngon ngu: Java
+   - File chinh: BookManagement.java, Book.java
+   - Duong dan GitHub: https://github.com/ecpen/J2EE-bai1.git
+
+4. Cach chay:
+   - Compile: javac src/main/java/*.java
+   - Run: java -cp src/main/java BookManagement
+
+5. Screenshot:
+   [Chen anh full man hinh vao day - chup man hinh khi chay chuong trinh]
+
+6. Ket luan:
+   Du an hoan thanh, code chay tot, khong loi.
+
+Tac gia: [Ten ban]
+Ngay: 2026-03-25

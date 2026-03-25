@@ -21,7 +21,7 @@ Chuong trinh quan ly sach bang Java, su dung console de tuong tac.
 [Chen anh full man hinh vao day]
 
 ## GitHub Repository
-[Link GitHub repository]
+https://github.com/ecpen/J2EE-bai1.git
 
 ## Tac gia
 [Ten ban]
