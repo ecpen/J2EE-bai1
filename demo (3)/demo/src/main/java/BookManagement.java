@@ -60,7 +60,6 @@ public class BookManagement {
     private static void addBook(Scanner sc) {
         System.out.print("Nhap ten sach: ");
         String title = sc.nextLine();
-        System.out.print("Nhap tac gia: ");
         String author = sc.nextLine();
         double price = 0;
         while (true) {
